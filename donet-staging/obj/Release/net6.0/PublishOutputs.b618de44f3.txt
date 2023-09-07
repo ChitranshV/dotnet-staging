@@ -1,0 +1,7 @@
+C:\Users\Chitransh\Documents\AZURE\DevAzure\Visual Studio webapp\donet-staging\donet-staging\obj\Release\net6.0\PubTmp\Out\donet-staging.exe
+C:\Users\Chitransh\Documents\AZURE\DevAzure\Visual Studio webapp\donet-staging\donet-staging\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Chitransh\Documents\AZURE\DevAzure\Visual Studio webapp\donet-staging\donet-staging\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Chitransh\Documents\AZURE\DevAzure\Visual Studio webapp\donet-staging\donet-staging\obj\Release\net6.0\PubTmp\Out\donet-staging.dll
+C:\Users\Chitransh\Documents\AZURE\DevAzure\Visual Studio webapp\donet-staging\donet-staging\obj\Release\net6.0\PubTmp\Out\donet-staging.deps.json
+C:\Users\Chitransh\Documents\AZURE\DevAzure\Visual Studio webapp\donet-staging\donet-staging\obj\Release\net6.0\PubTmp\Out\donet-staging.runtimeconfig.json
+C:\Users\Chitransh\Documents\AZURE\DevAzure\Visual Studio webapp\donet-staging\donet-staging\obj\Release\net6.0\PubTmp\Out\donet-staging.pdb
